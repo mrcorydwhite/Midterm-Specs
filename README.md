@@ -1,5 +1,4 @@
-1. Ethical Issues
-  1. Potential violations
+1. Ethical Issues (Potential violations)
       1. Privacy
       2. Confidentiality 
       3. Trust in the developer
