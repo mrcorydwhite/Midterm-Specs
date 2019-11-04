@@ -19,6 +19,6 @@ Screenshots of the regular Yo interface and then followed by my added feature
 ## New Added Yo Feature
 Added a custom yo feature where you can insert a custom message
 
-![pic 5](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/5%20newfeature%20pt2.PNG)
+![pic 5](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/5%20newfeature%20pt1.PNG)
 
 ![pic 6](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/6%20newfeature%20pt2.PNG)
