@@ -5,9 +5,12 @@ These problems could arise based off the fact that the messages can be anything.
       3. Trust in the developer
       
 2. Legal Issues(potential violations)
-(China - source used https://www.dlapiperdataprotection.com/index.html?t=law&c=CN )
+(China - source used https://www.dlapiperdataprotection.com/index.html?t=law&c=CN , https://www.insideprivacy.com/international/china/china-introduces-mobile-application-security-certification-scheme/ , http://www.lehmanlaw.com/resource-centre/laws-and-regulations/information-technology/regulation-for-computer-software-protection.html)
 Due to that fact that nearly every countries laws based around applications, data, privacy, etc. are all different these potential issues vary from country to country. I will specifically mention potetntial legal issues involving China.
-      1.reeeeeeeeeeeeeeeeeeeeeeee
+      1. Chinas certifications
+      2. Data Privacy
+      3. 
+      
       
 3. Professional Issues
 
