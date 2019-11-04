@@ -1,12 +1,12 @@
 1. Ethical Issues (Potential violations)
-These problems could arise based off the fact that the messages can be anything. Depending on how this data is manipulated, stored, sent, recieved, etc. there is obviouus potential of exploitation and misconduct
+These problems could arise based off the fact that the messages can be anything. Depending on how this data is manipulated, stored, sent, recieved, etc. there is obviouus potential of exploitation and misconduct. Best way to prevent this is to store as little info as possible and if things must be stored, only keep the absolute minimum required.
       1. Privacy
       2. Confidentiality 
       3. Trust in the developer
       
-
-
-2. Legal Issues
+2. Legal Issues(potential violations) (China - source used https://www.dlapiperdataprotection.com/index.html?t=law&c=CN )
+Due to that fact that nearly every countries laws based around applications, data, privacy, etc. are all different these potential issues vary from country to country. I will specifically mention potetntial legal issues involving China.
+      1.
 3. Professional Issues
 
 # Screencaps
