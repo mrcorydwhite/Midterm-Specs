@@ -8,7 +8,7 @@ Screenshots of the regular Yo interface and then followed by my added feature
 
 ## Regular Yo Features
 
-(/pics/1.PNG)
+![pic 1](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/1.PNG)
 
 (/pics/2.PNG)
 
