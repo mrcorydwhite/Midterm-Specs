@@ -13,7 +13,7 @@ Due to the fact that nearly every countries laws based around applications, data
       2. Data Privacy
       3. Region specific requirments
  
-3. Professional Issues(potential issues) With my area being specifically China there are potentially questionable rules and regulations that must be followed in order to allow the applications use in the country. These rules and regulations could violate high ethical standards and ensureing public good as the centeral concern. The contraversial standards and rules of the chinease government could potentially violate a professionals ethical responsibilites and obligations.
+3. Professional Issues(potential issues) With my area being specifically China there are potentially questionable rules and regulations that must be followed in order to allow the applications use in the country. These rules and regulations could violate high ethical standards and ensuring public good and saftey as the centeral concern. The contraversial standards and rules of the chinease government could potentially violate these professionals ethical responsibilites and obligations.
       1. Maintaining high standards especially ethical
       2. ensure public good is central concern
       3. Using care when modifyin or retiring systems 
