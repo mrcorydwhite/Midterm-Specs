@@ -7,9 +7,9 @@ These problems could arise based off the fact that the messages can be anything.
 2. Legal Issues(potential violations)
 
 (China - source used https://www.dlapiperdataprotection.com/index.html?t=law&c=CN )
-
 Due to that fact that nearly every countries laws based around applications, data, privacy, etc. are all different these potential issues vary from country to country. I will specifically mention potetntial legal issues involving China.
-      1.
+      1.reeeeeeeeeeeeeeeeeeeeeeee
+      
 3. Professional Issues
 
 # Screencaps
