@@ -7,13 +7,13 @@ Screenshots of the regular Yo interface and then followed by my added feature
 
 
 ## Regular Yo Features
-
+![Image 1]
 (https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/1.PNG)
-
+![Image 2]
 (https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/2.PNG)
-
+![Image 3]
 (https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/3.PNG)
-
+![Image 4]
 (https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/4.PNG)
 
 ## New Added Yo Feature
