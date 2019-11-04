@@ -1,8 +1,10 @@
 1. Ethical Issues (Potential violations)
+These problems could arise based off the fact that the messages can be anything. Depending on how this data is manipulated, stored, sent, recieved, etc. there is obviouus potential of exploitation and misconduct
       1. Privacy
       2. Confidentiality 
       3. Trust in the developer
-These problems could arise based off the fact that the messages can be anything. Depending on how this data is manipulated, stored, sent, recieved, etc. there is obviouus potential of exploitation and misconduct
+      
+
 
 2. Legal Issues
 3. Professional Issues
