@@ -5,14 +5,18 @@ These problems could arise based off the fact that the messages can be anything.
       3. Trust in the developer
       
 2. Legal Issues(potential violations)
-(China - source used https://www.dlapiperdataprotection.com/index.html?t=law&c=CN , https://www.insideprivacy.com/international/china/china-introduces-mobile-application-security-certification-scheme/ , http://www.lehmanlaw.com/resource-centre/laws-and-regulations/information-technology/regulation-for-computer-software-protection.html)
-Due to that fact that nearly every countries laws based around applications, data, privacy, etc. are all different these potential issues vary from country to country. I will specifically mention potetntial legal issues involving China.
-      1. Chinas certifications
+(China - sources used https://www.dlapiperdataprotection.com/index.html?t=law&c=CN , https://www.insideprivacy.com/international/china/china-introduces-mobile-application-security-certification-scheme/ ,
+http://www.lehmanlaw.com/resource-centre/laws-and-regulations/information-technology/regulation-for-computer-software-protection.html ,
+http://www.china.org.cn/business/laws_regulations/2007-06/22/content_1214781.htm)
+Due to the fact that nearly every countries laws based around applications, data, privacy, etc. are all different these potential issues vary from country to country. I will specifically mention potetntial legal issues involving China. China has requirments for which software creators must follow and comply with. The software must first be certified by the government and the software must follow specific sets of data privacy laws. The potential for legal issues arise from the different specifications among different regions of china such as hong kong. With the messages being custom and peer to peer communication there could be a gray area with data privacy depending on how the messages are stored if at all and who those using the app may communicate with, example free communications with users of the app outside of the country.
+      1. Improper Certifications/Compliance
       2. Data Privacy
-      3. 
-      
-      
-3. Professional Issues
+      3. Region specific requirments
+ 
+3. Professional Issues(potential issues) With my area being specifically China there are potentially questionable rules and regulations that must be followed in order to allow the applications use in the country. These rules and regulations could violate high ethical standards and ensureing public good as the centeral concern. The contraversial standards and rules of the chinease government could potentially violate a professionals ethical responsibilites and obligations.
+      1. Maintaining high standards especially ethical
+      2. ensure public good is central concern
+      3. Using care when modifyin or retiring systems 
 
 # Screencaps
 Screenshots of the regular Yo interface and then followed by my added feature
