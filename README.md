@@ -46,7 +46,7 @@ Added a custom yo feature where you can insert a custom message
 ![pic 6](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/6%20newfeature%20pt2.PNG)
 
 
-#Group Members and country
+# Group Members and country
 Cory White - China
 Hope Anderson - Japan 
 Chris Bourgeois - ??
