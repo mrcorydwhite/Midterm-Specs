@@ -48,6 +48,9 @@ Added a custom yo feature where you can insert a custom message
 
 # Group Members and country
 Cory White - China
+
 Hope Anderson - Japan 
+
 Chris Bourgeois - ??
+
 Jack Williams - ??
