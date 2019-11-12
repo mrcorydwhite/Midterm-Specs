@@ -1,3 +1,5 @@
+Added feature: Custom Yo, a limited character message prepend by yo.
+
 1. Ethical Issues (Potential violations)
 These problems could arise based off the fact that the messages can be anything. Depending on how this data is manipulated, stored, sent, recieved, etc. there is obviouus potential of exploitation and misconduct. Best way to prevent this is to store as little info as possible and if things must be stored, only keep the absolute minimum required.
       1. Privacy
