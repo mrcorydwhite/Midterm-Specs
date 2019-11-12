@@ -30,6 +30,10 @@ Screenshots of the regular Yo interface and then followed by my added feature
 
 ![pic 3](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/3.PNG)
 
+![pic ](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/notDismiss.PNG)
+
+![pic set](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/noNotificationMain.PNG)
+
 ![pic 4](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/4.PNG)
 
 ## New Added Yo Feature
