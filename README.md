@@ -34,6 +34,8 @@ Screenshots of the regular Yo interface and then followed by my added feature
 
 ![pic set](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/noNotificiationMain.PNG)
 
+![pic profile](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/Profile.PNG)
+
 ![pic 4](https://github.com/mrcorydwhite/Midterm-Specs/blob/master/pics/4.PNG)
 
 ## New Added Yo Feature
